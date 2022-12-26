@@ -1,6 +1,6 @@
 **<h1 align="center"><b>ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ ⚡</b></h1>**
 <p align="center">
-  <a href="https://youtube.com/@kwicbotupdates">
+  <a href="https://t.me/movie_a1">
     <img src="https://te.legra.ph/file/8dfe7256883cbc0190478.jpg">
   </a>
   <p align="center">
@@ -10,14 +10,14 @@
     <br />
   </p>
   <p align="center">
-  <a href="https://youtube.com/@kwicbotupdates">
+  <a href="https://t.me/movie_a1">
         <img src="https://img.shields.io/badge/𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄-red?logo=youtube" width="200">
   </p>
 <hr>
   
 ## About This Bot
 
-<b><a href="https://www.github.com/KWICBOTS" title="Follow">Follow Me For Updates</a></b>
+<b><a href="https://www.github.com/Dkmovie" title="Follow">Follow Me For Updates</a></b>
 
 ## Up to 4GB files Supported ♥️
 
