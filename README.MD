@@ -166,5 +166,5 @@ Bot also Supported with Channels. Just add bot Channel as Admin. If any new file
 - <b>⍣ [KWIC](https://GitHub.com/KWICBOTS)</b>
 - Everyone In This Journey !
 
-<b>ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› [KWIC](https://t.me/kwicbotupdates) | [ɪɴsᴛᴀɢʀᴀᴍ](https://www.instagram.com/sharun_pheonix/) | [ɢɪᴛʜᴜʙ](https://GitHub.com/KWICBOTS)</b>                                                                                                                                                                                    
+<b>ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› [RAVI](https://t.me/R_KOHLI) | [ɪɴsᴛᴀɢʀᴀᴍ](https://www.instagram.com/) | [ɢɪᴛʜᴜʙ](https://GitHub.com/Dkmovie)</b>                                                                                                                                                                                    
 <b>ᴄʜᴀɴɴᴇʟ ›› [𝘬𝘸𝘪𝘤𝘉𝘰𝘵 𝘜𝘱𝘥𝘢𝘵𝘦𝘴 ](https://t.me/kwicbotupdates)</b>
