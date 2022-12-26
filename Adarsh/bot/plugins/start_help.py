@@ -60,9 +60,9 @@ async def start(b, m):
             caption="**ʜᴇʟʟᴏ...⚡\n\nɪᴀᴍ ᴀ sɪᴍᴘʟᴇ ᴛᴇʟᴇɢʀᴀᴍ ғɪʟᴇ/ᴠɪᴅᴇᴏ ᴛᴏ ᴘᴇʀᴍᴀɴᴇɴᴛ ʟɪɴᴋ ᴀɴᴅ sᴛʀᴇᴀᴍ ʟɪɴᴋ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ.**\n\n**ᴜsᴇ /help ғᴏʀ ᴍᴏʀᴇ ᴅᴇᴛsɪʟs\n\nsᴇɴᴅ ᴍᴇ ᴀɴʏ ᴠɪᴅᴇᴏ / ғɪʟᴇ ᴛᴏ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀᴢ...**",
             reply_markup=InlineKeyboardMarkup(
                 [
-                    [InlineKeyboardButton("⚡ 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 ⚡", url="https://t.me/kwicbotupdates"), InlineKeyboardButton("⚡ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 ⚡", url="https://t.me/kwicbotupdates")],
-                    [InlineKeyboardButton("📺 24/7 𝙼𝙾𝚅𝙸𝙴𝚂 📺", url="https://t.me/MoviesNowV2"), InlineKeyboardButton("💎 𝙾𝚃𝚃 𝙼𝙾𝚅𝙸𝙴𝚂 💎", url="https://t.me/MoviesNowOTT2")],
-                    [InlineKeyboardButton("💌 𝙼𝙾𝚅𝙸𝙴 𝙱𝙾𝚃 💌", url="https://t.me/KWICVER2bot")]
+                    [InlineKeyboardButton("⚡ 𝙼𝙳𝙸𝚂𝙺 𝚂𝙴𝙰𝚁𝙲𝙷 𝙱𝙾𝚃 ⚡", url="https://t.me/Mdisk_Link_Search_V2_bot"), InlineKeyboardButton("⚡ 𝙲𝙷𝙰𝙽𝙽𝙻𝚂 ⚡", url="https://t.me/movie_a1")],
+                    [InlineKeyboardButton("📺 24/7 𝙼𝙾𝚅𝙸𝙴𝚂 📺", url="https://t.me/movie_a1"), InlineKeyboardButton("💎 𝙶𝚁𝙾𝚄𝙿 𝙼𝙾𝚅𝙸𝙴𝚂 💎", url="https://t.me/movie_on1")],
+                    [InlineKeyboardButton("💌 𝙼𝙾𝚅𝙸𝙴 𝙱𝙾𝚃 💌", url="https://t.me/Tg_Movie_Files_bot")]
                 ]
             ),
             
@@ -123,7 +123,7 @@ async def start(b, m):
                                      Var.PORT,
                                      get_msg.id)
 
-        msg_text = "**ᴛᴏᴜʀ ʟɪɴᴋ ɪs ɢᴇɴᴇʀᴀᴛᴇᴅ...⚡\n\n📧 ғɪʟᴇ ɴᴀᴍᴇ :-\n{}\n {}\n\n💌 ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ :- {}\n\n♻️ ᴛʜɪs ʟɪɴᴋ ɪs ᴘᴇʀᴍᴀɴᴇɴᴛ ᴀɴᴅ ᴡᴏɴ'ᴛ ɢᴇᴛ ᴇxᴘɪʀᴇᴅ ♻️\n\n@MoviesNowV2**"
+        msg_text = "**ᴛᴏᴜʀ ʟɪɴᴋ ɪs ɢᴇɴᴇʀᴀᴛᴇᴅ...⚡\n\n📧 ғɪʟᴇ ɴᴀᴍᴇ :-\n{}\n {}\n\n💌 ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ :- {}\n\n♻️ ᴛʜɪs ʟɪɴᴋ ɪs ᴘᴇʀᴍᴀɴᴇɴᴛ ᴀɴᴅ ᴡᴏɴ'ᴛ ɢᴇᴛ ᴇxᴘɪʀᴇᴅ ♻️\n\n@movie_a1**"
         await m.reply_photo(
             photo="https://te.legra.ph/file/8dfe7256883cbc0190478.jpg",
             caption=msg_text.format(file_name, file_size, stream_link),
@@ -178,9 +178,9 @@ async def help_handler(bot, message):
         
         reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton("⚡ 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 ⚡", url="https://t.me/kwicbotupdates"), InlineKeyboardButton("⚡ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 ⚡", url="https://t.me/kwicbotupdates")],
-                [InlineKeyboardButton("📺 24/7 𝙼𝙾𝚅𝙸𝙴𝚂 📺", url="https://t.me/MoviesNowV2"), InlineKeyboardButton("💎𝙾𝚃𝚃 𝙼𝙾𝚅𝙸𝙴𝚂💎", url="https://t.me/MoviesNowOTT2")],
-                [InlineKeyboardButton("💌 𝙼𝙾𝚅𝙸𝙴 𝙱𝙾𝚃 💌", url="https://t.me/KWICVER2bot")]
+                [InlineKeyboardButton("⚡ 𝙼𝙳𝙸𝚂𝙺 𝚂𝙴𝙰𝚁𝙲𝙷 𝙱𝙾𝚃 ⚡", url="https://t.me/Mdisk_Link_Search_V2_bot"), InlineKeyboardButton("⚡ 𝙲𝙷𝙰𝙽𝙽𝙻𝚂 ⚡", url="https://t.me/movie_a1")],
+                [InlineKeyboardButton("📺 24/7 𝙼𝙾𝚅𝙸𝙴𝚂 📺", url="https://t.me/movie_a1"), InlineKeyboardButton("💎𝙶𝚁𝙾𝚄𝙿 𝙼𝙾𝚅𝙸𝙴𝚂💎", url="https://t.me/movie_on1")],
+                [InlineKeyboardButton("💌 𝙼𝙾𝚅𝙸𝙴 𝙱𝙾𝚃 💌", url="https://t.me/Tg_Movie_Files_bot")]
             ]
         )
     )
@@ -230,22 +230,22 @@ async def about_handler(bot, message):
 
 <b>╭━━━━━━━〔ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ〕</b>
 ┃
-┣⪼<b>ʙᴏᴛ ɴᴀᴍᴇ : <a href='https://t.me/kwicbotupdates'>𝗞𝗪𝗜𝗖 𝗛𝗜𝗚𝗛 𝗦𝗣𝗘𝗘𝗗 𝗕𝗢𝗧</a></b>
-┣⪼<b>ᴜᴘᴅᴀᴛᴇᴢ : <a href='https://t.me/kwicbotupdates'>𝗞𝗪𝗜𝗖𝗕𝗢𝗧 𝗨𝗣𝗗𝗔𝗧𝗘𝗦</a></b>
-┣⪼<b>sᴜᴘᴘᴏʀᴛ : <a href='https://t.me/kwic2002'>𝗞𝗪𝗜𝗖</a></b>
+┣⪼<b>ᴍᴏᴠɪᴇ ʙᴏᴛ : <a href='https://t.me/https://t.me/Tg_Movie_Files_bot'>ʙʟᴀᴄᴋ ᴀᴅᴀᴍ</a></b>
+┣⪼<b>ᴄᴏɴᴛᴀᴄᴛ : <a href='https://t.me/R_KOHLI'>ʀᴀᴠɪ ᴋᴏʜʟɪ</a></b>
+┣⪼<b>ᴍᴅɪsᴋ ʙᴏᴛ : <a href='https://t.me/Mdisk_Link_Search_V2_bot'>ᴍᴅɪsᴋ sᴇᴀʀᴄʜ ʙᴏᴛ</a></b>
 ┣⪼<b>sᴇʀᴠᴇʀ : ʜᴇʀᴜᴋᴏ</b>
 ┣⪼<b>ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ</b>
 ┣⪼<b>ʟᴀɴɢᴜᴀɢᴇ: ᴘʏᴛʜᴏɴ 3</b>
-┣⪼<b>sᴏᴜʀᴄᴇ-ᴄᴏᴅᴇ : <a href='https://github.com/kwicfiletolinkbot'>𝗞𝗪𝗜𝗖𝗕𝗢𝗧𝗦</a></b>
-┣⪼<b>𝙼𝚘𝚟𝚒𝚎-𝙶𝚛𝚘𝚞𝚙 : <a href='https://t.me/MoviesNowV2'>𝙼𝚘𝚟𝚒𝚎𝚜𝙽𝚘𝚠𝚅2</a></b>
+┣⪼<b>sᴏᴜʀᴄᴇ-ᴄᴏᴅᴇ : <a href='https://github.com/Dkmovie/DK_Filestreambot'>ᴅᴋᴍᴏᴠɪᴇ</a></b>
+┣⪼<b>𝙼𝚘𝚟𝚒𝚎-𝙶𝚛𝚘𝚞𝚙 : <a href='https://t.me/movie_on1'>𝙼𝚘𝚟𝚒𝚎𝚜𝙽𝚘𝚠𝚅2</a></b>
 ┃
 <b>╰━━━━━━━〔ᴘʟᴇᴀsʀ sᴜᴘᴘᴏʀᴛ〕</b>""",
   
         
         reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton("⚡ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 ⚡", url="https://t.me/kwicbotupdates"), InlineKeyboardButton("📺 24/7 𝙼𝙾𝚅𝙸𝙴𝚂 📺", url="https://t.me/MoviesNowV2")],
-                [InlineKeyboardButton("💌 𝙼𝙾𝚅𝙸𝙴𝙱𝙾𝚃 💌 ", url="https://t.me/KWICVER2bot")]
+                [InlineKeyboardButton("⚡ 𝙼𝙾𝚅𝙸𝙴 𝙶𝚁𝙾𝚄𝙿 ⚡", url="https://t.me/movie_on1"), InlineKeyboardButton("📺 24/7 𝙼𝙾𝚅𝙸𝙴𝚂 📺", url="https://t.me/movie_a1")],
+                [InlineKeyboardButton("💌 𝙼𝙾𝚅𝙸𝙴𝙱𝙾𝚃 💌 ", url="https://t.me/Tg_Movie_Files_bot")]
             ]
         )
     )
