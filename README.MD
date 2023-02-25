@@ -1,5 +1,12 @@
 **<h1 align="center"><b>ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ ⚡</b></h1>**
 <p align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=FILES+STREAM+BOT+!;CREATED+BY+TECHNICAL+RAVI+KOHLI!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)
+</p>
+
+ 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dkmovie/DK_Filestreambot)
+
   <a href="https://t.me/movie_a1">
     <img src="https://te.legra.ph/file/761c78ced1b158a8f9440.jpg">
   </a>
