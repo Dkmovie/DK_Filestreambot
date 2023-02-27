@@ -100,12 +100,15 @@
       }
   },
   "buildpacks": [{
-      "url": "heroku/python"
-    }],
+    "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+  }, {
+    "url": "heroku/python"
+  }],
   "formation": {
-      "web": {
-          "quantity": 1,
-          "size": "eco"
-      }
+    "web": {
+      "quantity": 1,
+      "size": "eco"
+    }
   }
 }
+
