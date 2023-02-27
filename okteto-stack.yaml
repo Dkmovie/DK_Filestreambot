@@ -2,9 +2,14 @@ services:
   drone-srcb:
     build: .
     environment:
-      ID: $ID  
-      HASH: $HASH  
-      TOKEN: $TOKEN 
+      API_ID: $API_ID
+      API_HASH: $API_HASH
+      BOT_TOKEN: $BOT_TOKEN
+      BIN_CHANNEL: $BIN_CHANNEL 
+      DATABASE_URL: $DATABASE_URL
+      OWNER_ID: $OWNER_ID
+      UPDATES_CHANNEL: $UPDATES_CHANNEL
+      OWNER_USERNAME: $OWNER_USERNAME
     ports:
       - 8080
     resources:
