@@ -5,7 +5,7 @@
 </p>
 
 
-http://dashboard.heroku.com/new?template=https://github.com/Dkmovie/DK_Filestreambot
+
 
  
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](http://dashboard.heroku.com/new?template=https://github.com/Dkmovie/DK_Filestreambot)
