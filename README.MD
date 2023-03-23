@@ -4,6 +4,9 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=FILES+STREAM+BOT+!;CREATED+BY+TECHNICAL+RAVI+KOHLI!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)
 </p>
 
+
+http://dashboard.heroku.com/new?template=https://github.com/Dkmovie/DK_Filestreambot
+
  
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dkmovie/DK_Filestreambot)
 
